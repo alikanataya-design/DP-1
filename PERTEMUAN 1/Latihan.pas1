@@ -1,0 +1,19 @@
+program latihan;
+uses crt;
+
+var
+begin
+  clrscr;
+
+  {input data}
+  write('masukan nama anda :');
+  readln(nama);
+
+  write('masukan nim anda:');
+  readln(nim);
+
+  write('masukan kom anda:');
+  readln(kom);
+
+  write('masukan alamat anda :');
+  readln(alamat);
